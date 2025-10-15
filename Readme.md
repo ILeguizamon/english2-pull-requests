@@ -16,3 +16,6 @@ The following organizer table summarizes the **rhetorical moves** and **key phra
 ![Organizer Table](images/Tabla-PR-ingles2-Actualizada.PNG)
 
 This table helps guide the writing of the PR and shows how vocabulary and phrases are applied in context.
+
+## Additional Resources
+- [Technical Writing Tips](https://maddevs.io/blog/how-to-make-a-proper-description-for-a-pull-request/)
