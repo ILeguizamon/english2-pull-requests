@@ -13,6 +13,6 @@ This repo is **for educational purposes only**.
 
 The following organizer table summarizes the **rhetorical moves** and **key phrases** used in the Pull Request exercise:
 
-![Organizer Table](images/Tabla-PR-Ingles2.PNG)
+![Organizer Table](images/Tabla-PR-ingles2-Actualizada.PNG)
 
 This table helps guide the writing of the PR and shows how vocabulary and phrases are applied in context.
